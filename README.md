@@ -15,7 +15,17 @@
 </details>
 
 <details>
-<summary>2 - Elementos HTML</summary>
+<summary>2 - Curiosidade</summary>
+
+> O primeiro website do mundo foi lançado por ele em 6 de agosto de 1991. O conteúdo simplesmente descrevia a forma de funcionamento dessa nova forma de conexão. O domínio era http://info.cern.ch , e até hoje está no ar em sua forma original.
+
+![](./assets/primeiro.png)
+
+
+</details>
+
+<details>
+<summary>3 - Elementos HTML</summary>
 
 - Um elemento é um componente que compõe o HTML. 
 - Os elementos são compostos por tags. 
@@ -92,7 +102,7 @@ EX da tag `<button>`:
 </details>
 
 <details>
-<summary>3 - TAG Semâtica</summary>
+<summary>4 - TAG Semâtica</summary>
 
 ![](./assets/versus.jpg)
 
@@ -181,7 +191,7 @@ EX:
 </details>
 
 <details>
-<summary>4 - Atributos</summary>
+<summary>5 - Atributos</summary>
 
 - Atributos são propriedades que podem ser adicionadas aos elementos.
 - Existem vários atributos, iremos ver adiante.
@@ -204,7 +214,7 @@ EX da tag `<img>`:
 </details>
 
 <details>
-    <summary>5 - Estrutura básica de uma página HTML</summary>
+<summary>6 - Estrutura básica de uma página HTML</summary>
  
 ```html
 <!DOCTYPE html>
@@ -233,7 +243,7 @@ EX da tag `<img>`:
 
 
 <details>
-<summary>6 - Página exemplo</summary>
+<summary>7 - Página exemplo</summary>
 
 > Para criar uma página html, é necessário criar um arquivo e salvar com a extensão html e colocar o código dentro do arquivo.
 
