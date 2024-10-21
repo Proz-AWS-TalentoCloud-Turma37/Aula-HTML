@@ -22,7 +22,7 @@
 > O primeiro website do mundo foi lançado por ele em 6 de agosto de 1991. O conteúdo simplesmente descrevia a forma de funcionamento dessa nova forma de conexão. O domínio era http://info.cern.ch , e até hoje está no ar em sua forma original.
 
 <div align="center">
-<img src="assets/primeiro.png" width="300" height="200">
+<img src="assets/primeiro.png">
 </div>
 
 </details>
@@ -108,7 +108,7 @@ EX da tag `<button>`:
 <summary>4 - TAG Semâtica</summary>
 
 <div align="center">
-<img src="assets/versus.png" width="300" height="200">
+<img src="assets/versus.png">
 </div>
 
 > Refere-se a elementos HTML que são usados para fornecer significado e estrutura ao conteúdo de um site, tornando-o mais compreensível para os navegadores, mecanismos de busca e pessoas que utilizam tecnologias assistivas. Essas tags ajudam a identificar claramente o propósito e o significado dos diferentes elementos do site.
