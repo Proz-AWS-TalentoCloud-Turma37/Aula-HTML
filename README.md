@@ -9,7 +9,7 @@
 
 > Criado pelo físico britânico Tim Berners-Lee em 2008, numa estação NeXTcube, usando o ambiente de desenvolvimento NeXTSTEP.
 
-![](./assets/tim.jpeg)
+<img src="assets/tim.jpeg" width="300" height="200">
 
 > O HTML é a liguagem base da internet. Foi criada para ser de fácil entendimento por seres humanos e também por máquinas, como por exemplo o Google ou outros sistemas que percorrem a internet capturando informação.
 </details>
