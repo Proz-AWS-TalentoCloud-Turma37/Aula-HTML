@@ -108,7 +108,7 @@ EX da tag `<button>`:
 <summary>4 - TAG Semâtica</summary>
 
 <div align="center">
-![](./assets/versus.jpg)
+![](assets/versus.png)
 </div>
 
 > Refere-se a elementos HTML que são usados para fornecer significado e estrutura ao conteúdo de um site, tornando-o mais compreensível para os navegadores, mecanismos de busca e pessoas que utilizam tecnologias assistivas. Essas tags ajudam a identificar claramente o propósito e o significado dos diferentes elementos do site.
